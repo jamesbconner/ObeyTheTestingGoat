@@ -43,3 +43,4 @@ Temporary Items
 .apdisk
 *.pyc
 *.sqlite3
+.idea

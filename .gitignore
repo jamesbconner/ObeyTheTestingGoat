@@ -44,3 +44,4 @@ Temporary Items
 *.pyc
 *.sqlite3
 .idea
+.settings
